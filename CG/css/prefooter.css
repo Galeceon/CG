@@ -1,0 +1,35 @@
+.pre-footer {
+    background-color: #2b2c3b;
+    border-top: 4px solid #303141;
+    color: #999;
+    text-align: left;
+
+  }
+  
+  .pre-footer-line {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+  .pre-footer-logos p {
+    margin-left: 10px;
+  }
+  
+  .pre-footer-logos {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 70%;
+  }
+  
+  .pre-footer-logos img {
+    max-height: 40px;
+    margin-left: 5px;
+  }
